@@ -1,7 +1,30 @@
-### Hi there 👋
+# Hi there 👋, I'm Ehtesham Anwar
 
-Welcome to my Github profile! I am a passionate and skilled professional with two years of experience in backend development, where I honed my skills in PHP, Laravel, and MySQL. My journey in the tech industry began with building robust and efficient backend systems, and this experience laid a solid foundation in coding, system design, and problem-solving.
+🚀 **Software Engineer** passionate about building impactful, scalable web applications and crafting seamless digital experiences. From server-side logic to front-end interactivity, I take pride in handling all stages of web development with precision and creativity.
 
-Currently, I am expanding my horizons by pursuing a Master's degree in Artificial Intelligence. This exciting venture has led me to delve into the realms of TensorFlow, OpenCV, and deep learning. My commitment to continuous learning and growth drives me    to explore these advanced technologies, and I am enthusiastic about the potential they hold in transforming the future of tech.
+---
 
-My goal is to blend my solid background in backend development with my growing expertise in AI to create innovative, intelligent solutions. I am keen on exploring opportunities that allow me to contribute to impactful projects in AI, while also leveraging my experience in backend development.
+### 🔧 Technologies & Tools
+
+**Backend**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
+
+**Scripting & Tools**  
+![Scripting](https://img.shields.io/badge/-Scripting-FFD43B?logo=python&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
+---
+
+### 📫 Connect with Me
+Email: ehteshamanwar96@gmail.com
+
+Let's build something amazing together!
