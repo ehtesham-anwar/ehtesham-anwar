@@ -1,9 +1,5 @@
 # Hi there 👋, I'm Ehtesham Anwar
 
-🚀 **Software Engineer** passionate about building impactful, scalable web applications and crafting seamless digital experiences. From server-side logic to front-end interactivity, I take pride in handling all stages of web development with precision and creativity.
-
----
-
 ### 🔧 Technologies & Tools
 
 **Backend**  
